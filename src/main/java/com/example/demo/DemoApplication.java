@@ -40,7 +40,7 @@ public class DemoApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
-		checkPrint();
+//		checkPrint();
 //		Component comp = new Component();
 //		comp.test();
 //		Integer[] arr = { 8, 3, 5, 7, 1 };
